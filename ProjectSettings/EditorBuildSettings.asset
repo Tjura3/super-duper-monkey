@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/TitleScreen.unity
     guid: abe37667495396347b46ff5e6b480cf5
   - enabled: 1
-    path: Assets/Thomas/Game.unity
+    path: Assets/Thomas/Swamplands.unity
     guid: 71d81b5c7c3acdb42a2d46fde4150075
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
